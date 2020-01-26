@@ -1,0 +1,43 @@
+IMPORTANT! remove "regions" section from now.json, they have changed the free plans and now this will cause the server to malfuntion.
+
+* fix back - can't back to login page because if the isLogged state is equal to true it 
+will always redirect to dashbaoard.
+
+* pwa
+
+* create animations for task creation and search 
+
+* typescript
+
+* clean code folders and names D
+
+* remove marking on double click on text
+
+* edit task view for urgency and current status place
+
+* better mark call to action buttons login , sign up , submit
+
+* check about jest coverage export to html
+
+// --- Done --- // 
+* tests 
+
+* icon for add new deadline DONE but can use imporvments
+
+* create default guest log in
+
+* create a user with 2 tasks that will guide the user trough the app.
+
+* edit style for search bar
+
+* edit search page
+
+* sort by urgency
+
+* other color background for the html
+
+* fix tabs shadow
+
+* user not found error
+
+////////////////////

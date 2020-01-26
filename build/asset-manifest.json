@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/static/js/main.6325d31c.chunk.js",
+    "main.js.map": "/static/js/main.6325d31c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.047d2c2a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.047d2c2a.js.map",
+    "static/js/2.877e7fe9.chunk.js": "/static/js/2.877e7fe9.chunk.js",
+    "static/js/2.877e7fe9.chunk.js.map": "/static/js/2.877e7fe9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.42ff396216c56aa33c57cbd5432e569e.js": "/precache-manifest.42ff396216c56aa33c57cbd5432e569e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.877e7fe9.chunk.js.LICENSE": "/static/js/2.877e7fe9.chunk.js.LICENSE",
+    "static/media/HTML5.png": "/static/media/HTML5.664a8c00.png",
+    "static/media/NodeJs.png": "/static/media/NodeJs.270f55ff.png",
+    "static/media/React.png": "/static/media/React.adffef46.png",
+    "static/media/alert.dd5b30d9.svg": "/static/media/alert.dd5b30d9.svg",
+    "static/media/fire.ab0f0303.svg": "/static/media/fire.ab0f0303.svg",
+    "static/media/javaScripts.png": "/static/media/javaScripts.0cded3a3.png",
+    "static/media/mongoDB.png": "/static/media/mongoDB.f6d35e5f.png",
+    "static/media/netlify.png": "/static/media/netlify.95e178f5.png",
+    "static/media/styledComponents.png": "/static/media/styledComponents.581cb207.png",
+    "static/media/warning-sign.6d2a7bc7.svg": "/static/media/warning-sign.6d2a7bc7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.047d2c2a.js",
+    "static/js/2.877e7fe9.chunk.js",
+    "static/js/main.6325d31c.chunk.js"
+  ]
+}
